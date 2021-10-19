@@ -271,6 +271,13 @@
     .ul-header-menu{
         display: none;
     }
+    nav ul li{
+        padding-right: 0;
+    }
+    nav .ul-header-menu li{
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
     .burger-button{
         display: block;
         background: none;
@@ -369,10 +376,10 @@
         padding: 25px 20px 34px;
     }
     .info-box {
-        width: 287px;
+        width: 275px;
     }
     .info-box-second {
-        width: 285px;
+        width: 250px;
     }
     .info-box-title {
         font-size: 22px;
@@ -415,6 +422,9 @@
     }
     .button-three {
         margin-right: 12px;
+    }
+    .call-box {
+        width: 269px;
     }
     .call-box-title {
         font-size: 22px;
